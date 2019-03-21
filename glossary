@@ -1,0 +1,9 @@
+glossary = {
+	'pr': 'lick',
+	'lemon': 'admire',
+	'durian': 'awful',
+	'cherry': 'cute',
+	'cry': 'need soothe',
+	}
+for word, definition in glossary.items():
+	print("\n" + word.title() + ": " + definition)
