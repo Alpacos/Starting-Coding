@@ -7,3 +7,5 @@ glossary = {
 	}
 for word, definition in glossary.items():
 	print("\n" + word.title() + ": " + definition)
+
+#items取每个的定义打出
